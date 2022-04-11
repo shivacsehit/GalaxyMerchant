@@ -20,3 +20,6 @@ C:\Users\HP\Desktop\New folder (2)\MerchantWPF\MerchantGalaxyWPF\MerchantGalaxyW
 C:\Users\HP\Desktop\New folder (2)\MerchantWPF\MerchantGalaxyWPF\MerchantGalaxyWPF\bin\Debug\Telerik.Windows.Controls.Data.dll
 C:\Users\HP\Desktop\New folder (2)\MerchantWPF\MerchantGalaxyWPF\MerchantGalaxyWPF\bin\Debug\Telerik.Windows.Controls.Input.dll
 C:\Users\HP\Desktop\New folder (2)\MerchantWPF\MerchantGalaxyWPF\MerchantGalaxyWPF\obj\Debug\MerchantGalaxyWPF.csprojResolveAssemblyReference.cache
+C:\Users\HP\Source\Repos\GalaxyMerchant\MerchantGalaxyWPF\MerchantGalaxyWPF\bin\Debug\MerchantGalaxyWPF.exe.config
+C:\Users\HP\Source\Repos\GalaxyMerchant\MerchantGalaxyWPF\MerchantGalaxyWPF\obj\Debug\MerchantGalaxyWPF.exe
+C:\Users\HP\Source\Repos\GalaxyMerchant\MerchantGalaxyWPF\MerchantGalaxyWPF\obj\Debug\MerchantGalaxyWPF.pdb
